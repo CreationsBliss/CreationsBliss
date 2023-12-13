@@ -1,6 +1,10 @@
 ![](https://private-user-images.githubusercontent.com/96902380/290206495-d5bc47e2-cab0-475c-a274-41c9a5ca2d5a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI0NzQ3NzIsIm5iZiI6MTcwMjQ3NDQ3MiwicGF0aCI6Ii85NjkwMjM4MC8yOTAyMDY0OTUtZDViYzQ3ZTItY2FiMC00NzVjLWEyNzQtNDFjOWE1Y2EyZDVhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjEzVDEzMzQzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVkNzJjMmZiYWM4ODM1ZmY4NjdjY2M0ZjY4NzUwM2UzMTZlOWVjYjVlZDBlNzVlOTlhNWVjZjA1NGEyZWJjZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.pePTxcehbqMCrG8B_1e4IrD6zMjzCVnS7zxIjlcHRWo)
 
-## Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+
+### Glad to see you here! 
+
+As a highly skilled 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 developer with expertise in 𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀, 𝗡𝗼𝗱𝗲.𝗷𝘀, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀, 𝗠𝗼𝗻𝗴𝗼𝗗𝗕, 𝗮𝗻𝗱 𝗪𝗼𝗿𝗱𝗣𝗿𝗲𝘀𝘀, I have a proven track record of delivering quality web solutions that meet and exceed client expectations. With a deep understanding of front-end and back-end technologies, I have developed responsive and user-friendly websites and applications that are optimized for performance and scalability.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/musfiq-rahman) 
