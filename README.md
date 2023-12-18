@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Glad to see you here! 
+## It's my pleasure to greet you here!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 My name is Musfiq Rahman. I am a MERN Stack Developer, and I'm very passionate and dedicated to my work. With 02 years experience as a professional MERN Stack developer, I have acquired the skills and knowledge necessary to make your project a success.
 
