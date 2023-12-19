@@ -1,4 +1,4 @@
-## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome, it’s great to have you here!  
+## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> It’s great to have you here!  
 
 This is Musfiq Rahman, specialized in React.js and Next.js development to design any front-end that comes in my way. It's been a professional journey of 2 years and yet more to explore in this arena. My expertise guarantees the best while meeting all your requirements.
 
