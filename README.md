@@ -60,4 +60,4 @@
 ## 📲 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/musfiq-rahman)
-[![X](https://img.shields.io/badge/X-Follow-black?logo=twitter)](https://twitter.com/musfakur_dev)
+[![X](https://img.shields.io/badge/X-Follow-black?logo=twitter)](https://twitter.com/)
