@@ -60,6 +60,7 @@
 ## 🏆 GitHub Trophies:
 
 [](https://github-profile-trophy.vercel.app/?username=CreationsBliss&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CreationsBliss&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Where to Find Me
 
