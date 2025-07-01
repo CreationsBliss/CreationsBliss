@@ -10,7 +10,6 @@
 - 🧠 Explore and integrate **AI** tools into modern web apps
 - 👨‍🏫 Mentor junior devs and contribute to the dev community
 
-[Followers](https://img.shields.io/github/followers/CreationsBliss?style=for-the-badge&logo=github&color=f5b041&logoColor=FFFFFF)
 
 ## 🔭 Currently Working On
 
