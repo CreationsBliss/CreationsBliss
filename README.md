@@ -52,14 +52,13 @@
 
 [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreationsBliss&theme=radical&title_color=f5b041&text_color=FFFFFF&bg_color=1a1a1a)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CreationsBliss&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CreationsBliss&show_icons=true&theme=radical&icon_color=f5b041&title_color=f5b041&text_color=FFFFFF&bg_color=1a1a1a)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreationsBliss&layout=compact&langs_count=6&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreationsBliss&theme=radical&title_color=f5b041&text_color=FFFFFF&bg_color=1a1a1a)
 
 
 ## 🏆 GitHub Trophies:
 
-[](https://github-profile-trophy.vercel.app/?username=CreationsBliss&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 [![trophy](https://github-profile-trophy.vercel.app/?username=CreationsBliss&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Where to Find Me
