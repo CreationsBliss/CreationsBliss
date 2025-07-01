@@ -48,10 +48,6 @@
 
 ## 📊 GitHub Stats
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=CreationsBliss&show_icons=true&theme=radical&icon_color=f5b041&title_color=f5b041&text_color=FFFFFF&bg_color=1a1a1a)
-
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreationsBliss&theme=radical&title_color=f5b041&text_color=FFFFFF&bg_color=1a1a1a)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CreationsBliss&show_icons=true&theme=radical&icon_color=f5b041&title_color=f5b041&text_color=FFFFFF&bg_color=1a1a1a)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreationsBliss&theme=radical&title_color=f5b041&text_color=FFFFFF&bg_color=1a1a1a)
@@ -62,6 +58,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=CreationsBliss&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Where to Find Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/musfiq-rahman)
+[![X](https://img.shields.io/badge/X-Follow-black?logo=twitter)](https://twitter.com/musfakur_dev)
+
 
 [LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
