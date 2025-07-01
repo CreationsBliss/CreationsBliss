@@ -57,17 +57,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CreationsBliss&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📫 Where to Find Me
+## 📲 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/musfiq-rahman)
 [![X](https://img.shields.io/badge/X-Follow-black?logo=twitter)](https://twitter.com/musfakur_dev)
-
-
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musfakur-dev/)
-  [![X (Twitter)](https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/musfakur_dev)
-
-
-
-[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-[Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
